@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/vXSCrBG/Sreemongol.png",
+      "description": "Cox's Bazar is a renowned coastal town and a major tourist destination in Bangladesh. It is celebrated for boasting the longest natural sea beach in the world, stretching over 120 kilometers along the Bay of Bengal. The beach is characterized by its fine, golden sand and gentle waves, making it an ideal spot for beachcombing, swimming, and various water sports. The town is also home to a vibrant market, offering local crafts, seafood, and a variety of souvenirs. Visitors can enjoy stunning sunsets over the horizon, creating a picturesque and memorable experience.",
+      "name": "Cox's Bazar"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/6vpMvZp/sundorbon.png",
+      "description": "The Sundarbans is a UNESCO World Heritage Site and the largest mangrove forest in the world. Located in the southwestern part of Bangladesh, it spans across the border into India. This unique ecosystem is home to an extraordinary array of wildlife, including the famous Bengal tiger. The mangrove forest is crisscrossed with a network of tidal waterways, creating a distinct environment where saltwater and freshwater meet. Visitors can explore this natural wonder by boat, witnessing diverse species of flora and fauna, including crocodiles, spotted deer, and a rich birdlife. The Sundarbans offers a one-of-a-kind opportunity to experience the wonders of nature up close.",
+      "name": "Sundarbans"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/T0jdfjN/Sajek.png",
+      "description": "Sylhet is a picturesque region located in the northeastern part of Bangladesh, known for its rolling hills, tea gardens, and stunning natural landscapes. The area is characterized by lush greenery, scenic valleys, and numerous waterfalls, creating a serene and tranquil atmosphere. Sylhet is renowned for its thriving tea industry, with numerous tea estates producing some of the finest varieties of tea in the world. Visitors can explore the vibrant markets, taste local cuisine, and embark on treks to discover hidden gems in the hills. The Ratargul Swamp Forest, Lawachara National Park, and Jaflong are among the must-visit attractions in this enchanting region.",
+      "name": "Sylhet"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/BVxdY00/pexels-adel-monowar-siddiqui-13007603.jpg",
+      "description": "Rangamati is a captivating hill district situated in the Chittagong Hill Tracts of Bangladesh, nestled by the Kaptai Lake. This scenic destination offers breathtaking views of the lake and surrounding hills, creating a serene retreat for nature enthusiasts. Visitors can explore the indigenous communities residing in the area, experiencing their unique culture and traditions. The Kaptai Lake provides opportunities for boating, fishing, and water-based activities, allowing for a closer connection with the natural beauty of the region. Rangamati is an ideal destination for those seeking relaxation, adventure, and a genuine cultural experience in the heart of Bangladesh.",
+      "name": "Rangamati"
+    }
+  ]
+  

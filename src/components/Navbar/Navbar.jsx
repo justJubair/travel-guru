@@ -9,8 +9,8 @@ const Navbar = () => {
     <li className="hover:bg-slate-100 rounded"><NavLink to="/contact" >Contact</NavLink></li>
     </>
   return (
-   <div className="relative">
-     <div className="absolute navbar">
+ 
+     <div className="absolute navbar bg-transparent z-[100]">
     <div className="navbar-start">
       <div className="dropdown">
         <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -27,7 +27,7 @@ const Navbar = () => {
    
     </div>
     <div className="relative hidden md:block ">
-      <input type="text" placeholder="Search your destinations..." className="bg-transparent border px-8 py-2 w-72" />
+      <input type="text" placeholder="Search your destinations..." className="text-white bg-transparent border px-8 py-2 w-72" />
       <FaSearch className="absolute text-white top-3 left-2"/>
     </div>
     <div className="navbar-center hidden lg:flex">
@@ -39,7 +39,7 @@ const Navbar = () => {
       <a className="btn bg-[#F9A51A] border-0">Login</a>
     </div>
   </div>
-   </div>
+   
   )
 }
 
